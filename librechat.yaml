@@ -101,7 +101,7 @@ endpoints:
           "TA/meta-llama/Llama-3-70b-chat-hf",
           "TA/Qwen/Qwen1.5-110B-Chat",
           "TA/mistralai/Mixtral-8x7B-Instruct-v0.1",
-          "TA/mistralai/Mixtral-8x22B-Instruct-v0.1"
+          "TA/mistralai/Mixtral-8x22B-Instruct-v0.1",
           "- Cohere -",
           "command-r",
           "command-r-plus",
@@ -123,7 +123,7 @@ endpoints:
           "- Mistral -",
           "mistral-large-latest",
           "open-mistral-nemo",
-          "- Others -"
+          "- Others -",
           "nd-imagine-v3",
           "azure-tts-1",
           "text-moderation-latest",
