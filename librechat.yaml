@@ -34,30 +34,25 @@ endpoints:
           "gpt-4-32k",
           "gpt-4-32k-0314",
           "gpt-4-32k-0613",
-
           "-- Completions Models --",
           "gpt-3.5-turbo-instruct",
           "gpt-3.5-turbo-instruct-0914",
           "davinci-002",
           "babbage-002",
-
           "-- Embeddings Models --",
           "text-embedding-ada-002",
           "text-embedding-3-small",
           "text-embedding-3-large",
-
           "-- Image Models --",
           "dall-e",
           "dall-e-2",
           "dall-e-3",
-
           "-- Audio Models --",
           "whisper-1",
           "tts-1",
           "tts-1-hd",
           "tts-1-1106",
           "tts-1-hd-1106",
-
           "- Anthropic -",
           "claude-instant-1",
           "claude-instant-1.2",
@@ -75,7 +70,6 @@ endpoints:
           "claude-3-opus-patch",
           "claude-3-sonnet-patch",
           "claude-3-haiku-patch",
-
           "- Together -",
           "TA/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
           "TA/meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
@@ -108,33 +102,27 @@ endpoints:
           "TA/Qwen/Qwen1.5-110B-Chat",
           "TA/mistralai/Mixtral-8x7B-Instruct-v0.1",
           "TA/mistralai/Mixtral-8x22B-Instruct-v0.1"
-
           "- Cohere -",
           "command-r",
           "command-r-plus",
           "command-r-online",
           "command-r-plus-online",
-
           "- Zhipu AI -",
           "glm-3-turbo",
           "glm-4",
           "glm-4v",
-
           "- DeepSeek -",
           "deepseek-chat",
           "deepseek-coder",
-
           "- Google -",
           "gemini-pro",
           "gemini-pro-vision",
           "gemini-1.5-pro-001",
           "gemini-1.5-pro-exp-0801",
           "gemini-1.5-flash-001",
-
           "- Mistral -",
           "mistral-large-latest",
           "open-mistral-nemo",
-
           "- Others -"
           "nd-imagine-v3",
           "azure-tts-1",
@@ -152,8 +140,7 @@ endpoints:
           "gpt-4-1106-preview-online-with-gs",
           "gpt-3.5-turbo-web-rev",
           "gpt-4-turbo-web-rev",
-          "gpt-4o-web-rev",
-          
+          "gpt-4o-web-rev"
           ]
         fetch: false
       titleConvo: true
